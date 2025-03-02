@@ -1,7 +1,7 @@
 # React JS Cheat Sheets List:
 | Title    | Remark  |
 | --------------| -----|
-| [Introduction](https://github.com/potatoscript/react/wiki/Introduction) | Overview of ReactJS, its core concepts, and use cases. |
+| [Introduction](https://github.com/potatoscript/react/wiki/Introduction-ReactJS) | Overview of ReactJS, its core concepts, and use cases. |
 | [Setting Up React Environment](https://github.com/potatoscript/react/wiki/Setting-Up-React-Environment) | How to set up a React development environment using tools like Create React App. |
 | [JSX Syntax](https://github.com/potatoscript/react/wiki/JSX-Syntax) | Understanding JSX syntax and how it differs from HTML. |
 | [React Components](https://github.com/potatoscript/react/wiki/React-Components) | Learn about functional and class components in React. |
